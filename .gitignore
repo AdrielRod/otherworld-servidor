@@ -1,0 +1,4 @@
+dist/
+teste/
+*.exe
+__pycache__/
